@@ -1,4 +1,4 @@
-## Olá! Eu sou o Victor Hugo👋🏻
+## Olá! Eu sou Eduardo Medeiros👋🏻
 
 - 🌱 powerlifter natural
 - 🌎 15 anos
