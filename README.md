@@ -18,7 +18,7 @@
   <img align="center" alt="Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Figma" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  />
-
+  <img align="center" alt="Figma" height="50" width="45" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"  />
 </div>
   
   ##
