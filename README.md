@@ -26,6 +26,7 @@
   ##
   
   <div>
-  <a href="https://www.linkedin.com/in/eduardo-medeiros-8b4bb3279" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/eduardo-medeiros-8b4bb3279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dgleyramos" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mts_malow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dgleyramos" height="30" width="40" /></a>
         
   </div>
