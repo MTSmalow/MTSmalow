@@ -18,6 +18,8 @@
   <img align="center" alt="Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Figma" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  />
+  <a href="https://www.linkedin.com/in/eduardo-medeiros-8b4bb3279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dgleyramos" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mts_malow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dgleyramos" height="30" width="40" /></a>
 
 </div>
   
