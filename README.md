@@ -1,4 +1,4 @@
-## Olá! Eu sou Eduardo Medeiros👋🏻
+## Olá! Eu sou Eduardo Medeiros👋
 
 - 🌱 powerlifter natural
 - 🌎 15 anos
