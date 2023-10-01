@@ -5,6 +5,7 @@
 - 🔭 Cursando Desenvolvimento de Sistemas 
 <div>
   <a href="https://github.com/MTSmalow" >
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=radical)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MTSmalow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTSmalow&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -18,7 +19,6 @@
 </div>
   
   ##
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=radical)
   
   <div>
 <a href="https://www.linkedin.com/in/eduardo-medeiros-8b4bb3279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dgleyramos" height="30" width="40" /></a>
