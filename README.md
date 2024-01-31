@@ -13,8 +13,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="40" height="30" align="center"></a>
-  <img align="center" alt="Figma" height="50" width="45" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"  />
   <img align="center" alt="node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="java" height="50" width="45" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"  />
   <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" align="center" width="40" height="30"></a>
           
 </div>
@@ -33,9 +33,7 @@
   <div>
 <img align="center" alt="eclipse" height="30" width="30"  src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png"/>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40" align="center" height="30"></a>
-<img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="center" alt="Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-<img align="center" alt="Ps" height="30" width="30" src="https://avatars.githubusercontent.com/u/7642181?s=280&v=4" />
+<img align="center" alt="pycharm" height="50" width="50" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_alt_macos_bigsur_icon_190054.png" />
          
   </div>
