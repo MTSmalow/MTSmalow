@@ -31,9 +31,7 @@
   ##
 
   <div>
-<img align="center" alt="eclipse" height="30" width="30"  src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png"/>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40" align="center" height="30"></a>
 <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="center" alt="pycharm" height="50" width="50" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_alt_macos_bigsur_icon_190054.png" />
          
   </div>
