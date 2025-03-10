@@ -1,7 +1,8 @@
 ## Olá! Eu sou Eduardo Medeiros👋
 
-- 🌎 16 anos
-- 🔭 Cursando Desenvolvimento de Sistemas 
+- 🌎 17 anos
+- 👨🏽‍💻 Cursando Desenvolvimento de Sistemas
+- 💻 cursando informática
 <div>
   <a href="https://github.com/MTSmalow" >
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MTSmalow&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
