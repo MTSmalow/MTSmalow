@@ -23,8 +23,8 @@ const eduardo = {
 };
 ```
 
-🎓 Cursando ** Desenvolvimento de Sistemas**  
-💻 Cursando ** Informática**
+🎓 Cursando **Desenvolvimento de Sistemas**  
+💻 Cursando **Informática**
 
 ---
 
