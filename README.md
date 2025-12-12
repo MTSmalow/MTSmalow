@@ -15,16 +15,13 @@ const eduardo = {
     idade: 17,
     localização: "Mauá, São Paulo",
     educação: "ETEC de Mauá",
-    cursos: ["Desenvolvimento de Sistemas", "Técnico em Informática"],
+    cursos: ["Tecnico em Desenvolvimento de Sistemas", "Técnico em Informática"],
     foco: ["Web Development", "Backend", "IoT", "Automação"],
     aprendendo: ["React", "Flutter", "PHP", "C++"],
     hobbies: ["Programação", "Tecnologia", "Games"],
     projetos_destaque: ["AXII", "Hermes Neptune"]
 };
 ```
-
-🎓 Cursando **Desenvolvimento de Sistemas**  
-💻 Cursando **Informática**
 
 ---
 
