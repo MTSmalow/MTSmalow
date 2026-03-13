@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Eduardo de Medeiros
+# Olá! Eu sou Eduardo de Medeiros
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Estudante+de+TI;Apaixonado+por+Tecnologia;Sempre+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 ```javascript
 const eduardo = {
@@ -25,7 +25,7 @@ const eduardo = {
 
 ---
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MTSmalow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"/>
@@ -38,13 +38,11 @@ const eduardo = {
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
-### 💻 Linguagens
+### Linguagens
 <div align="center">
   
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -53,7 +51,7 @@ const eduardo = {
   
 </div>
 
-### 🚀 Frameworks & Bibliotecas
+### Frameworks & Bibliotecas
 <div align="center">
   
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -62,7 +60,7 @@ const eduardo = {
   
 </div>
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 <div align="center">
   
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -70,7 +68,7 @@ const eduardo = {
   
 </div>
 
-### 🔧 Ferramentas & Plataformas
+### Ferramentas & Plataformas
 <div align="center">
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -82,34 +80,34 @@ const eduardo = {
 
 ---
 
-## 🏆 Projetos em Destaque
+## Projetos em Destaque
 
-### 🎓 [AXII - Sistema de Automação para Salas de Aula](https://github.com/Project-axii)
+###  [AXII - Sistema de Automação para Salas de Aula](https://github.com/Project-axii)
 > Solução tecnológica para otimizar a gestão de recursos em ambientes educacionais
 
 Sistema de automação que centraliza o controle de equipamentos como computadores, projetores e iluminação através de aplicativo móvel e terminal físico. Oferece automação de tarefas e monitoramento em tempo real, aumentando a eficiência dos professores e reduzindo o tempo perdido com configurações manuais.
 
 **Tech Stack:** `C#` `PHP` `HTML/CSS/JS` `C++` `MySQL` `PostgreSQL` `Flutter`
 
-### 🎮 [Hermes Neptune](https://github.com/hermes-neptune)
+###  [Hermes Neptune](https://github.com/hermes-neptune)
 > Arcade sustentável com componentes reciclados apresentado na 16ª FETEPS
 
 Sistema de arcade com autenticação via Arduino e WeMos D1. Utiliza teclado matricial e display LCD para interface, integração com API REST para gerenciamento de usuários e créditos, e controles customizados através de soldagem de botões arcade em placas de teclado recicladas.
 
 **Tech Stack:** `C++` `HTML/CSS/JS` `MySQL` `Flutter` `PHP`
 
-### 🎯 Outros Projetos
+###  Outros Projetos
 
-- 🐍 **[Snake Game](https://snake-game-git-main-mtsmalow.vercel.app/)** - Jogo da cobrinha em JavaScript puro
-- 🧩 **[Tetris JS](https://tetris-js-e7iq-mtsmalows-projects.vercel.app/)** - Implementação do clássico Tetris
-- 🎴 **[Marketplace Yu-Gi-Oh!](http://mtsmalow.shop/yugioh/)** - E-commerce desenvolvido com PHP e JavaScript
-- 🔄 **[Conversor CSS](https://conversor-git-main-mtsmalow.vercel.app/)** - Ferramenta para conversão de unidades CSS
-- 🎸 **[Charlie Brown Jr.](https://mtsmalow.github.io/charlie-brown-jr./)** - Site tributo à banda
-- 💛 **[Setembro Amarelo](https://mtsmalow.github.io/setembro-amarelo/)** - Campanha de conscientização
+- **[Snake Game](https://snake-game-git-main-mtsmalow.vercel.app/)** - Jogo da cobrinha em JavaScript puro
+- **[Tetris JS](https://tetris-js-e7iq-mtsmalows-projects.vercel.app/)** - Implementação do clássico Tetris
+- **[Marketplace Yu-Gi-Oh!](http://mtsmalow.shop/yugioh/)** - E-commerce desenvolvido com PHP e JavaScript
+- **[Conversor CSS](https://conversor-git-main-mtsmalow.vercel.app/)** - Ferramenta para conversão de unidades CSS
+- **[Charlie Brown Jr.](https://mtsmalow.github.io/charlie-brown-jr./)** - Site tributo à banda
+- **[Setembro Amarelo](https://mtsmalow.github.io/setembro-amarelo/)** - Campanha de conscientização
 
 ---
 
-## 📫 Entre em Contato
+## Entre em Contato
 
 <div align="center">
   
@@ -118,12 +116,4 @@ Sistema de arcade com autenticação via Arduino e WeMos D1. Utiliza teclado mat
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511984333615)
   [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mtsmalow.github.io/readme/)
   
-</div>
-
-
-<div align="center">
-  
-### 💡 "Transformando código em soluções reais"
-⭐️ From [MTSmalow](https://github.com/MTSmalow)
-
 </div>
