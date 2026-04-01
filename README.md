@@ -2,7 +2,7 @@
 
 # Olá! Eu sou Eduardo de Medeiros
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Estudante+de+TI;Apaixonado+por+Tecnologia;Sempre+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Estudante+de+TI;Cadete+42sp)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,10 +12,10 @@
 
 ```javascript
 const eduardo = {
-    idade: 17,
+    idade: 18,
     localização: "Mauá, São Paulo",
-    educação: "ETEC de Mauá",
-    cursos: ["Tecnico em Desenvolvimento de Sistemas", "Técnico em Informática"],
+    educação: ["ETEC de Mauá", "42 São Paulo"],
+    cursos: ["Tecnico em Desenvolvimento de Sistemas", "Técnico em Informática", "Engenharia de Software"],
     foco: ["Web Development", "Backend", "IoT", "Automação"],
     aprendendo: ["React", "Flutter", "PHP", "C++"],
     hobbies: ["Programação", "Tecnologia", "Games"],
@@ -48,17 +48,12 @@ const eduardo = {
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  
-</div>
-
-### Frameworks & Bibliotecas
-<div align="center">
-  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  
-</div>
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>  
 
 ### Banco de Dados
 <div align="center">
@@ -95,17 +90,6 @@ Sistema de automação que centraliza o controle de equipamentos como computador
 Sistema de arcade com autenticação via Arduino e WeMos D1. Utiliza teclado matricial e display LCD para interface, integração com API REST para gerenciamento de usuários e créditos, e controles customizados através de soldagem de botões arcade em placas de teclado recicladas.
 
 **Tech Stack:** `C++` `HTML/CSS/JS` `MySQL` `Flutter` `PHP`
-
-###  Outros Projetos
-
-- **[Snake Game](https://snake-game-git-main-mtsmalow.vercel.app/)** - Jogo da cobrinha em JavaScript puro
-- **[Tetris JS](https://tetris-js-e7iq-mtsmalows-projects.vercel.app/)** - Implementação do clássico Tetris
-- **[Marketplace Yu-Gi-Oh!](http://mtsmalow.shop/yugioh/)** - E-commerce desenvolvido com PHP e JavaScript
-- **[Conversor CSS](https://conversor-git-main-mtsmalow.vercel.app/)** - Ferramenta para conversão de unidades CSS
-- **[Charlie Brown Jr.](https://mtsmalow.github.io/charlie-brown-jr./)** - Site tributo à banda
-- **[Setembro Amarelo](https://mtsmalow.github.io/setembro-amarelo/)** - Campanha de conscientização
-
----
 
 ## Entre em Contato
 
