@@ -23,24 +23,31 @@ const eduardo = {
 };
 ```
 
----
-
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+    
 ## Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MTSmalow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTSmalow&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MTSmalow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MTSmalow&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTSmalow&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true"/>
+</div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MTSmalow&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## Tecnologias & Ferramentas
 
 ### Linguagens
+
 <div align="center">
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -72,6 +79,9 @@ const eduardo = {
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   
 </div>
+</td>
+</tr>
+</table>
 
 ---
 
